@@ -1,3 +1,3 @@
-username = "R6FMSAM"
+username = "Enter_Your_Username"
 
-password = "Welcome11"
+password = "Enter_Your_Password"
